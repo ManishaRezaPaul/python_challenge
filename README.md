@@ -10,7 +10,7 @@ In this activity we used the csv read and write functions to read data from csv 
 ### Challenge objective
 This challenge required to calculate the [total_months], [total_amount], [change_over_the_entire_period] & [average_change], [greatest_increase] and [greatest_decrease] in Profits".
 
-### Conducting analysis from the dataset
+### Analysing the dataset
 1. Used the [with] statement to open and close the dataset to conduct the analysis
 
 2. Used the [for] (loop) function for the following calculation: 
