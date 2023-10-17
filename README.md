@@ -1,5 +1,5 @@
 # python_challenge
-Repo for Week 3 Python module challenge
+Week 3 Python module challenge
 
 ## Ensuring filepath works!
 This included setting a path for both (csvfile & textfile) files and ensuring the files are available in the specified location. To ensure that the code for the specific challenge runs smoothly, need to ensure that the terminal location is set to the specific (PyBank or PyPoll) folders.
